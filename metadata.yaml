@@ -1,0 +1,38 @@
+_repo: Revenge-of-the-Vera_62351
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doolin, Joseph
+    alias: Doolin, Joseph Patrick
+    birthdate: 1896
+    deathdate: 1967
+    gutenberg_agent_id: '51844'
+    url: http://www.gutenberg.org/2009/agents/51844
+creator:
+  author:
+    agent_name: Hasse, Henry
+    alias: Hasse, Henry Louis
+    birthdate: 1913
+    deathdate: 1977
+    gutenberg_agent_id: '32816'
+    url: http://www.gutenberg.org/2009/agents/32816
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Hasse
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Revenge -- Fiction'
+- GITenberg
+title: Revenge of the Vera
+url: http://www.gutenberg.org/ebooks/62351
